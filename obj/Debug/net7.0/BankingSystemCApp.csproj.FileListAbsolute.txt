@@ -1,0 +1,17 @@
+/Users/mohammedaladhary/Projects/BankingSystemCApp/bin/Debug/net7.0/BankingSystemCApp
+/Users/mohammedaladhary/Projects/BankingSystemCApp/bin/Debug/net7.0/BankingSystemCApp.deps.json
+/Users/mohammedaladhary/Projects/BankingSystemCApp/bin/Debug/net7.0/BankingSystemCApp.runtimeconfig.json
+/Users/mohammedaladhary/Projects/BankingSystemCApp/bin/Debug/net7.0/BankingSystemCApp.dll
+/Users/mohammedaladhary/Projects/BankingSystemCApp/bin/Debug/net7.0/BankingSystemCApp.pdb
+/Users/mohammedaladhary/Projects/BankingSystemCApp/bin/Debug/net7.0/Newtonsoft.Json.dll
+/Users/mohammedaladhary/Projects/BankingSystemCApp/obj/Debug/net7.0/BankingSystemCApp.csproj.AssemblyReference.cache
+/Users/mohammedaladhary/Projects/BankingSystemCApp/obj/Debug/net7.0/BankingSystemCApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mohammedaladhary/Projects/BankingSystemCApp/obj/Debug/net7.0/BankingSystemCApp.AssemblyInfoInputs.cache
+/Users/mohammedaladhary/Projects/BankingSystemCApp/obj/Debug/net7.0/BankingSystemCApp.AssemblyInfo.cs
+/Users/mohammedaladhary/Projects/BankingSystemCApp/obj/Debug/net7.0/BankingSystemCApp.csproj.CoreCompileInputs.cache
+/Users/mohammedaladhary/Projects/BankingSystemCApp/obj/Debug/net7.0/BankingSystemCApp.csproj.CopyComplete
+/Users/mohammedaladhary/Projects/BankingSystemCApp/obj/Debug/net7.0/BankingSystemCApp.dll
+/Users/mohammedaladhary/Projects/BankingSystemCApp/obj/Debug/net7.0/refint/BankingSystemCApp.dll
+/Users/mohammedaladhary/Projects/BankingSystemCApp/obj/Debug/net7.0/BankingSystemCApp.pdb
+/Users/mohammedaladhary/Projects/BankingSystemCApp/obj/Debug/net7.0/BankingSystemCApp.genruntimeconfig.cache
+/Users/mohammedaladhary/Projects/BankingSystemCApp/obj/Debug/net7.0/ref/BankingSystemCApp.dll
