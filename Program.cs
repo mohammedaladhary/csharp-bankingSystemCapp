@@ -58,6 +58,9 @@ class Program
 
                         if (exitChoice == "y" || exitChoice == "yes")
                         {
+                            Console.WriteLine("Thank you for using the system.");
+                            // Set a timer to exit after 3 seconds
+                            Thread.Sleep(3000);
                             Environment.Exit(0);
                         }
                         break;
